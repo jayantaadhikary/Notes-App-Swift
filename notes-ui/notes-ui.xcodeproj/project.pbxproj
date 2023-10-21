@@ -55,9 +55,9 @@
 			children = (
 				7DB814EC2AE40CBD00092136 /* notes_uiApp.swift */,
 				7DB814EE2AE40CBD00092136 /* Home.swift */,
+				7DB814FA2AE41AB100092136 /* AddNoteView.swift */,
 				7DB814F02AE40CBD00092136 /* Assets.xcassets */,
 				7DB814F22AE40CBD00092136 /* Preview Content */,
-				7DB814FA2AE41AB100092136 /* AddNoteView.swift */,
 			);
 			path = "notes-ui";
 			sourceTree = "<group>";
